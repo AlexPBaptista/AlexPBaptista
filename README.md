@@ -1,11 +1,12 @@
 ## <div align="center">Hi! I'm Alexandre Baptista, and it's a pleasure to meet you! </div>
 
-<br>
-<div style ="display:flex;" align="center">
+<be>
+<!--<div style ="display:flex;" align="center">
   <img src="https://media.licdn.com/dms/image/D4D03AQExLxnmW89S6A/profile-displayphoto-shrink_800_800/0/1665668352304?e=1697673600&v=beta&t=5rtSZ0iWGZtuPRBsLve2KIo0cc3xXr61rexDKccM0ew" style="height:200px"/>
-</div>
+</div> -->
 
 ### <div align="center">I was a student in [EPB](https://epb.pt), where I studied for 3 years and learned how to code.</div>
+### <div align="center">Now, I study at [IPCA](https://ipca.pt), where I'm taking a degree in Digital Games Development Engineering.</div>
 <br/>
 
 
